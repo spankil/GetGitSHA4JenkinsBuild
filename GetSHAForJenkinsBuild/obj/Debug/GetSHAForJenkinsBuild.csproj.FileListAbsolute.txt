@@ -1,0 +1,9 @@
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\bin\Debug\GetSHAForJenkinsBuild.exe.config
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\bin\Debug\GetSHAForJenkinsBuild.exe
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\bin\Debug\GetSHAForJenkinsBuild.pdb
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\obj\Debug\GetSHAForJenkinsBuild.csprojResolveAssemblyReference.cache
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\obj\Debug\GetSHAForJenkinsBuild.Form1.resources
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\obj\Debug\GetSHAForJenkinsBuild.Properties.Resources.resources
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\obj\Debug\GetSHAForJenkinsBuild.csproj.GenerateResource.Cache
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\obj\Debug\GetSHAForJenkinsBuild.exe
+C:\Pankil\Test\GetSHAForJenkinsBuild\GetSHAForJenkinsBuild\obj\Debug\GetSHAForJenkinsBuild.pdb
