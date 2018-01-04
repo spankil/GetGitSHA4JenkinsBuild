@@ -30,7 +30,7 @@ namespace GetSHAForJenkinsBuild
             }
 
             webBrowser1.ScriptErrorsSuppressed = true;
-            webBrowser1.Url = new Uri("https://jenkins-mtp-acc.platform.mnscorp.net/job/MTP_Core/job/mtp_allocation_orchestration/job/build_mtp_allocation_orchestration/");
+            webBrowser1.Url = new Uri("https://jenkins-mtp-acc.platform.mnscorp.net/job/MTP_Core/job/mtp_allocation_orchestration/job/" + textBox6.Text + "/");
             webBrowser1.Refresh();
         }
 
